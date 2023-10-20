@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mainText">Первый пошел</string>
+    <string name="mainButton">Главная кнопкаГ</string>
+    <string name="Title">Title</string>
+    <string name="title">Title</string>
+    <string name="text_notes">Text notes</string>
+    <string name="date">Date</string>
+</resources>
