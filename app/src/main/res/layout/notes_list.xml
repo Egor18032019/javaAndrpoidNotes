@@ -3,8 +3,8 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/notes_container"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         app:cardBackgroundColor="#93D38B"
         app:layout_marginBaseline="8dp"
         app:cardCornerRadius="8dp"
@@ -13,7 +13,7 @@
 
     <LinearLayout
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
     >
 
@@ -53,7 +53,7 @@
                 android:padding="8dp"
                 android:text="@string/text_notes"
                 android:maxLines="10"
-                android:textColor="#004D40"/>
+                android:textColor="#ECCAC5"/>
         <TextView
                 android:id="@+id/text_view_date"
                 android:layout_width="match_parent"
